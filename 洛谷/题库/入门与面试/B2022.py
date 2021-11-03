@@ -1,3 +1,3 @@
 n = float(input())
 
-print("%.12f"% n)
+print("%.12f" % n)

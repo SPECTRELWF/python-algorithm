@@ -1,0 +1,5 @@
+n = float(input().strip())
+print("%f" % n)
+print('%.5f' % n)
+print('%e' % n)
+print('%g' % n)

@@ -7,6 +7,6 @@ bike = 27 + 23 + n / 3.0
 if walk > bike:
     print("Bike")
 elif walk == bike:
-    print("All") 
+    print("All")
 else:
     print("Walk")
